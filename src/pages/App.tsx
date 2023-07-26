@@ -1,6 +1,4 @@
 import React from 'react';
-// import logo from './logo.svg';
-// import './App.css';
 
 function App() {
   return (
@@ -41,7 +39,6 @@ function App() {
         <div className="bg-black h-20">
         </div>
     </div>
-
   );
 }
 
